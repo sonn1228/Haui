@@ -1,21 +1,28 @@
-2- Lịch sử Đảng Cộng sản Việt Nam			
-2- Tư tưởng Hồ Chí Minh	
-Sum: 4
+# Course Credits Overview
 
-3- Phát triển phần mềm hướng dịch vụ
-3- Mạng máy tính
-3- Tương tác người máy	
-3- Quản lý dự án công nghệ thông tin
-3- Kiểm thử phần mềm
-3- Đảm bảo chất lượng phần mềm
-3-	Đồ án chuyên ngành
-3- Phát triển ứng dụng trên thiết bị di động
-sum: 24
+## General Courses
+- **Lịch sử Đảng Cộng sản Việt Nam**: 2 credits  
+- **Tư tưởng Hồ Chí Minh**: 2 credits  
+**Sum**: **4 credits**
 
-9- Đồ án tốt nghiệp (Kỹ thuật phần mềm)
-6- Thực tập doanh nghiệp (Kỹ thuật phần mềm)
+## Core Major Courses
+- **Phát triển phần mềm hướng dịch vụ**: 3 credits  
+- **Mạng máy tính**: 3 credits  
+- **Tương tác người máy**: 3 credits  
+- **Quản lý dự án công nghệ thông tin**: 3 credits  
+- **Kiểm thử phần mềm**: 3 credits  
+- **Đảm bảo chất lượng phần mềm**: 3 credits  
+- **Đồ án chuyên ngành**: 3 credits  
+- **Phát triển ứng dụng trên thiết bị di động**: 3 credits  
+**Sum**: **24 credits**
 
-sum: 15
+## Capstone and Internship
+- **Đồ án tốt nghiệp (Kỹ thuật phần mềm)**: 9 credits  
+- **Thực tập doanh nghiệp (Kỹ thuật phần mềm)**: 6 credits  
+**Sum**: **15 credits**
 
-10 TA
+## English Courses
+- **TA (English)**: 10 credits  
 
+## Grand Total
+**Total Credits**: **53 credits**
