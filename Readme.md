@@ -7,7 +7,7 @@
 
 ## Core Major Courses
 - **Phát triển phần mềm hướng dịch vụ**: 3 credits  
-- **Mạng máy tính**: 3 credits  
+- **Python**: 3 credits  
 - **Tương tác người máy**: 3 credits  
 - **Quản lý dự án công nghệ thông tin**: 3 credits  
 - **Kiểm thử phần mềm**: 3 credits  
